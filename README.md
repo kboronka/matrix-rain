@@ -1,3 +1,3 @@
 # matrix-rain
 
-Demo: [make it rain](https://kboronka.github.io/matrix-rain/)
+Matrix Rain in action: [link](https://kboronka.github.io/matrix-rain/)
